@@ -1,6 +1,7 @@
 # Hello there! 👋 I'm Savellona, Sidney V.
 
-I'm passionate about coding and diving deep into database management. I love unraveling complex problems and engineering elegant solutions. My journey in tech commenced with my pursuit of a BS in Information Technology.
+## About Me
+I'm Sidney V. Savellona, someone deeply passionate about coding and with a knack for database management. I absolutely thrive when diving into complex problems, finding that perfect solution is where my skills truly shine. My journey into the tech realm started when I enrolled in the BS Computer Science program.
 
 ## Education
 - **BS Computer Science**
@@ -19,5 +20,4 @@ I'm passionate about coding and diving deep into database management. I love unr
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Get in Touch
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
 - Email: savellonasidney@gmail.comm
